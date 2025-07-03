@@ -110,7 +110,7 @@ if user_input is not None:
     
         "model": "/home/user/LLaMA-Factory/output/qwen2_5vl_lora_sft", 
         "messages": messages_to_send,
-        "temperature": 0.3, # Giảm nhiệt độ để kết quả nhất quán hơn
+        "temperature": 0.1, # Giảm nhiệt độ để kết quả nhất quán hơn
         "max_tokens": 2048
     }
 
