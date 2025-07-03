@@ -2,3 +2,6 @@ streamlit
 requests
 Pillow
 PyMuPDF
+
+
+# source vllm/bin/activate
